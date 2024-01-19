@@ -8,4 +8,3 @@ root1 = (-b + determinant**0.5)/(2*a)
 root2 = (-b - determinant**0.5)/(2*a)
 print(f"the roots of the equation are: , {root1}",)
 print(f"the roots of the equation are:, {root2} ",)
-1
