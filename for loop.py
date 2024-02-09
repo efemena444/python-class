@@ -6,11 +6,13 @@ for guess_count in range(0,5):
    
    if guess == secret_number:
     print("congratulations")
+    
     break
    elif guess  < secret_number:
        print("too low")
    elif guess > secret_number:
        print("TOO HIGH")
+
     
     
 
