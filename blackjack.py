@@ -64,4 +64,4 @@ def compare(userscore,computerscore):
 
 
 
-     ;
+     
